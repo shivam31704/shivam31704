@@ -13,7 +13,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/yourid">LinkedIn</a>
+<a href="https://linkedin.com/in/shivam--kaushik/">LinkedIn</a>
 </p>
 
 ---
