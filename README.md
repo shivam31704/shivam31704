@@ -1,5 +1,5 @@
 # <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4ab.png" width="20"/> About Me :
-🔭 Working on AI + RAG based apps<br>🌱 Learning LLMs & System Design<br>💬 Ask me about MERN, APIs, AI<br>⚡ Fun fact: I build AI tools that talk to PDFs 😄
+🔭I'm currently working on AI + RAG based apps <br>🔍 I'm looking too collaborate on AI-powered tools and SaaS products <br>🤝I'm looking for help with scaling products & growth strategies <br>🌱I'm currently learning LLMs & System Design<br>💬 Ask me about  Full-stack development or AI Integrations<br>⚡ Fun fact: I built an AI tool that answers questions strictly based on the content of the currently opened PDF. 😄
 
 
 ## 🌐 Socials:
