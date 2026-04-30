@@ -1,8 +1,4 @@
- <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
-
----
-# 💫 About Me:
+# <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4ab.png" width="20"/> About Me :
 🔭 Working on AI + RAG based apps<br>🌱 Learning LLMs & System Design<br>💬 Ask me about MERN, APIs, AI<br>⚡ Fun fact: I build AI tools that talk to PDFs 😄
 
 
